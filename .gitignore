@@ -1,1 +1,12 @@
-.idea/*!.idea/*.imlcache/*qloapps-*.log
+.idea/*
+!.idea/*.iml
+cache/sandbox/*
+qloapps-*.log
+modules/
+mails/
+translations/
+config/settings.inc.php
+config/xml/*.xml
+cache/
+img/
+.htaccess
